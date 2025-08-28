@@ -7,7 +7,6 @@
                 price: "17,500 جنيه",
                 originalPrice: "18,500 جنيه",
                 image: "https://www.awfarlak.com/wp-content/uploads/2025/07/ec9601d5f56f1d84be435144247b5d68.webp",
-                rating: "4.5 (42 تقييم)",
                 stars: 4.5,
                 specs: {
                     "المعالج": "Intel Core i7-8750H",

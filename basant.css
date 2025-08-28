@@ -726,6 +726,7 @@
             
             .modal-image, .modal-title-section {
                 width: 100%;
+                height: 245px;
             }
             
             .modal-title {
