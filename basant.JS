@@ -40,7 +40,7 @@
                 originalPrice: "31,500 جنيه",
                 image: "https://www.awfarlak.com/wp-content/uploads/2025/07/b68d73ef22bfef5d044560c21fcc4c7a-14.webp",
                 rating: "4.6 (38 تقييم)",
-                stars: 4.5,
+                stars: 5,
                 specs: {
                     "المعالج": " Intel Core i7-10875H",
                     "كارت الشاشة": "NVIDIA Quadro RTX 5000 16GB",
@@ -59,7 +59,7 @@
                 originalPrice: "28,500 جنيه",
                 image: "https://www.awfarlak.com/wp-content/uploads/2025/07/18fdf1c3490fbb7d74b5be6d6580addb-6.webp",
                 rating: "4.8 (67 تقييم)",
-                stars: 4.8,
+                stars: 4,
                 specs: {
                     "المعالج": " Intel Core i7-9850H",
                      "كارت الشاشة":"NVIDIA Quadro T2000 4GB",
@@ -76,11 +76,11 @@
             DELL_7520: {
                 title: "Dell Precision 7520",
                 description:"Xeon E3-1535M V6 – 16G Ram – 512G SSD Nvidia QUADRO M2200",
-                price: "11,899 جنيه",
-                originalPrice: "13,499 جنيه",
+                price: "13,500 جنيه",
+                originalPrice: "15,00 جنيه",
                 image: "https://top10-eg.com/wp-content/uploads/2020/12/csm_2001769665_1b277a5424.jpg",
                 rating: "4.3 (35 تقييم)",
-                stars: 4.3,
+                stars: 4.5,
                 specs: {
                     "المعالج": "Xeon E3-1535M V6 ",
                     "كارت الشاشة":" NVIDIA Quadro M2200 4GB GDDR5",
@@ -100,7 +100,7 @@
                 originalPrice: "29,000 جنيه",
                 image: "https://compuscience.com.eg/2645-pdt_771/acer-predator-helios-300-ph315-52-75c6-core-i7-9750hq-16gb-ddr4-2tb-hdd-512gb-ssd-nvidia-geforce-gtx-1660ti-6gb-156-fhd.jpg",
                 rating: "4.6 (38 تقييم)",
-                stars: 4.5,
+                stars: 5,
                 specs: {
                     "المعالج": " Intelcore i7-9750H",
                     "كارت الشاشة": "NVIDIA GeForce GTX 1660Ti 6GB",
@@ -141,6 +141,26 @@
                     //     content: "شاشة رائعة وأداء لا يصدق، أفضل جهاز اشتريته على الإطلاق."
                     // }
                 ]
+            },
+            //product 7
+             ZB15_G8: {
+                title: "HP ZBook Fury 15 G8",
+                description:"Workstation",
+                price: "26,000 جنيه",
+                originalPrice: "29,000 جنيه",
+                image: "https://i.ebayimg.com/images/g/q3YAAOSw2nxluYNZ/s-l1600.webp",
+                rating: "4.3 (35 تقييم)",
+                stars: 5,
+                specs: {
+                    "المعالج": "i7-11800H ",
+                    "كارت الشاشة":" Vga Nvidia 4g ddr6",
+                    "الذاكرة": "32G Ram",
+                    "التخزين": "512GB SSD ",
+                    "الشاشة": "15.6 بوصة FHD",
+                    "نظام التشغيل": "Windows 11 ",
+                    "الوزن": "2.5 كجم",
+                    "الألوان": " سلفر"
+                }
             },
         };
         
