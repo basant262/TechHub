@@ -20,16 +20,16 @@
                 }
                 , 
                 reviews: [
-                    {
-                        name: "خالد السعدي",
-                        date: "10 أبريل 2023",
-                        content: "الأداء مذهل في التصميم والبرمجة، البطارية تدوم طوال اليوم من الاستخدام المكثف."
-                    },
-                    {
-                        name: "فاطمة ناصر",
-                        date: "5 أبريل 2023",
-                        content: "شاشة رائعة وأداء لا يصدق، أفضل جهاز اشتريته على الإطلاق."
-                    }
+                    // {
+                    //     name: "خالد السعدي",
+                    //     date: "10 أبريل 2023",
+                    //     content: "الأداء مذهل في التصميم والبرمجة، البطارية تدوم طوال اليوم من الاستخدام المكثف."
+                    // },
+                    // {
+                    //     name: "فاطمة ناصر",
+                    //     date: "5 أبريل 2023",
+                    //     content: "شاشة رائعة وأداء لا يصدق، أفضل جهاز اشتريته على الإطلاق."
+                    // }
                 ]
             },
             //product 2
@@ -49,19 +49,7 @@
                     "الشاشة": "15.6 بوصه FHD",
                     "نظام التشغيل": "Windows 11 Home",
                     "الألوان": "سيلفر"
-                }, 
-                reviews: [
-                    {
-                        name: "خالد السعدي",
-                        date: "10 أبريل 2023",
-                        content: "الأداء مذهل في التصميم والبرمجة، البطارية تدوم طوال اليوم من الاستخدام المكثف."
-                    },
-                    {
-                        name: "فاطمة ناصر",
-                        date: "5 أبريل 2023",
-                        content: "شاشة رائعة وأداء لا يصدق، أفضل جهاز اشتريته على الإطلاق."
-                    }
-                ]
+                }
             },
             // product 3
             ZB15_G6: {
@@ -82,19 +70,7 @@
                     "نظام التشغيل": "Windows 11 Home",
                     "الوزن": "2.6 كجم",
                     "الألوان": "الفضي، space gray"
-                },
-                reviews: [
-                    {
-                        name: "خالد السعدي",
-                        date: "10 أبريل 2023",
-                        content: "الأداء مذهل في التصميم والبرمجة، البطارية تدوم طوال اليوم من الاستخدام المكثف."
-                    },
-                    {
-                        name: "فاطمة ناصر",
-                        date: "5 أبريل 2023",
-                        content: "شاشة رائعة وأداء لا يصدق، أفضل جهاز اشتريته على الإطلاق."
-                    }
-                ]
+                }
             },
             //product 4
             DELL_7520: {
@@ -114,20 +90,7 @@
                     "نظام التشغيل": "Windows 11 ",
                     "الوزن": "3 كجم",
                     "الألوان": "الفضي، الذهبي"
-                },
-                reviews: [
-                    {
-                        name: "خالد السعدي",
-                        date: "10 أبريل 2023",
-                        content: "الأداء مذهل في التصميم والبرمجة، البطارية تدوم طوال اليوم من الاستخدام المكثف."
-                    },
-                    {
-                        name: "فاطمة ناصر",
-                        date: "5 أبريل 2023",
-                        content: "شاشة رائعة وأداء لا يصدق، أفضل جهاز اشتريته على الإطلاق."
-                    }
-                ]
-               
+                }
             },
             // product 5
             Acer: {
@@ -146,19 +109,7 @@
                     "الشاشة": "15.6 بوصه FHD",
                     "نظام التشغيل": "Windows 11 Home",
                     "الألوان": "سيلفر"
-                }, 
-                reviews: [
-                    {
-                        name: "خالد السعدي",
-                        date: "10 أبريل 2023",
-                        content: "الأداء مذهل في التصميم والبرمجة، البطارية تدوم طوال اليوم من الاستخدام المكثف."
-                    },
-                    {
-                        name: "فاطمة ناصر",
-                        date: "5 أبريل 2023",
-                        content: "شاشة رائعة وأداء لا يصدق، أفضل جهاز اشتريته على الإطلاق."
-                    }
-                ]
+                }
             },
             //product 6
             Dell_7720: {
@@ -179,16 +130,16 @@
                     "الألوان": "اسود"
                 }, 
                 reviews: [
-                    {
-                        name: "خالد السعدي",
-                        date: "10 أبريل 2023",
-                        content: "الأداء مذهل في التصميم والبرمجة، البطارية تدوم طوال اليوم من الاستخدام المكثف."
-                    },
-                    {
-                        name: "فاطمة ناصر",
-                        date: "5 أبريل 2023",
-                        content: "شاشة رائعة وأداء لا يصدق، أفضل جهاز اشتريته على الإطلاق."
-                    }
+                    // {
+                    //     name: "خالد السعدي",
+                    //     date: "10 أبريل 2023",
+                    //     content: "الأداء مذهل في التصميم والبرمجة، البطارية تدوم طوال اليوم من الاستخدام المكثف."
+                    // },
+                    // {
+                    //     name: "فاطمة ناصر",
+                    //     date: "5 أبريل 2023",
+                    //     content: "شاشة رائعة وأداء لا يصدق، أفضل جهاز اشتريته على الإطلاق."
+                    // }
                 ]
             },
         };
@@ -265,25 +216,25 @@
         }
         
         // تفعيل أزرار إضافة إلى السلة
-        const addToCartButtons = document.querySelectorAll('.add-to-cart');
-        const cartCount = document.querySelector('.cart-count');
-        let count = 0;
+        // const addToCartButtons = document.querySelectorAll('.add-to-cart');
+        // const cartCount = document.querySelector('.cart-count');
+        // let count = 0;
         
-        function addToCart(name, price, button) {
-            count++;
-            if (cartCount) cartCount.textContent = count;
+        // function addToCart(name, price, button) {
+        //     count++;
+        //     if (cartCount) cartCount.textContent = count;
             
-            showNotification(`تم إضافة ${name} إلى سلة التسوق - ${price} جنيه`);
+        //     showNotification(`تم إضافة ${name} إلى سلة التسوق - ${price} جنيه`);
             
-            const originalText = button.innerHTML;
-            button.innerHTML = '<i class="fas fa-check"></i> تمت الإضافة';
-            button.style.background = 'var(--success)';
+        //     const originalText = button.innerHTML;
+        //     button.innerHTML = '<i class="fas fa-check"></i> تمت الإضافة';
+        //     button.style.background = 'var(--success)';
             
-            setTimeout(() => {
-                button.innerHTML = originalText;
-                button.style.background = '';
-            }, 2000);
-        }
+        //     setTimeout(() => {
+        //         button.innerHTML = originalText;
+        //         button.style.background = '';
+        //     }, 2000);
+        // }
         
         // فتح نافذة المنتج
         function openModal(productId) {
@@ -327,21 +278,21 @@
             }
             
             // إضافة التقييمات
-            const reviewsContainer = document.getElementById('reviewsContainer');
-            reviewsContainer.innerHTML = '';
+            // const reviewsContainer = document.getElementById('reviewsContainer');
+            // reviewsContainer.innerHTML = '';
             
-            product.reviews.forEach(review => {
-                const reviewElement = document.createElement('div');
-                reviewElement.className = 'review';
-                reviewElement.innerHTML = `
-                    <div class="review-header">
-                        <span class="reviewer-name">${review.name}</span>
-                        <span class="review-date">${review.date}</span>
-                    </div>
-                    <div class="review-content">${review.content}</div>
-                `;
-                reviewsContainer.appendChild(reviewElement);
-            });
+            // product.reviews.forEach(review => {
+            //     const reviewElement = document.createElement('div');
+            //     reviewElement.className = 'review';
+            //     reviewElement.innerHTML = `
+            //         <div class="review-header">
+            //             <span class="reviewer-name">${review.name}</span>
+            //             <span class="review-date">${review.date}</span>
+            //         </div>
+            //         <div class="review-content">${review.content}</div>
+            //     `;
+            //     reviewsContainer.appendChild(reviewElement);
+            // });
             
             // إظهار النافذة
             document.getElementById('productModal').style.display = 'flex';
